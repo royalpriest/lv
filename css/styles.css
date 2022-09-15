@@ -1,0 +1,66 @@
+ @media only screen and (min-width: 375px)  and (max-width: 1440px){
+    body{
+        background-color: hsl(212, 45%, 89%);;
+    }
+ }
+
+
+
+
+body {
+background-color:hsl(212, 45%, 89%);
+margin: 100px 50px 20px;
+}
+
+
+.top-container{
+    background-color: hsl(0, 0%, 100%);
+    width: 20%;
+    margin: auto;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+
+
+.text{
+font-family: 'Outfit', sans-serif;
+padding: 5px 3% 5px;
+font-size: 15px;
+width: 60%;
+margin: auto;
+
+
+}
+
+.second-text{
+    font-size: 15px;
+    width: 60%;
+    margin: auto;
+    padding:2px 5px ;
+}
+
+
+
+
+
+
+
+   
+.QRimage{ 
+    width: 90%;
+    margin: auto;
+    padding: 15px 5% 0;
+    border-radius: 30px;
+}
+
+
+
+
+.attribution {
+     font-size: 11px; 
+    text-align: center;
+    padding-bottom: 15px 20px;
+ }
+    .attribution a {
+         color: hsl(228, 45%, 44%); 
+        }
